@@ -14,6 +14,3 @@ Programa simples que calcula o IMC (Índice de Massa Corporal) e mostra a classi
 ```bash
 gcc imc.c -o imc
 ./imc
-
-Autor
-Nicolas Tortelli
